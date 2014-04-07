@@ -21,4 +21,4 @@
 # function: add_lunch_combo generic-eng
 
 add_lunch_combo full_ovation-eng
-add_lunch_combo cm_ovation-userdebug
+add_lunch_combo cd_ovation-userdebug
